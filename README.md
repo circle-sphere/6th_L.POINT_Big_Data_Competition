@@ -1,1 +1,1 @@
-# 6th-L.POINT-Big-Data-Competition
+# 6th_L.POINT_Big_Data_Competition
